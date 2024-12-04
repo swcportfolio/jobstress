@@ -1,16 +1,17 @@
-# jobstress_app
+# 리질리언스 강화 직무스트레스 검사
 
-A new Flutter project.
+헬스케어 장비를 활용한 시민 맞춤형 건강케어 서비스 
 
-## Getting Started
+직무스트레스 상태를 점검하는 앱
 
-This project is a starting point for a Flutter application.
+## 주요 화면
+- 회원 정보 입력 화면: 간략한 회원정보를 입력하는 화면이다.
+- 스트레스 검사 화면: 간단한 질의를 통해 검사가 진행된다.
+- 결과 화면: 사용자의 직무 관련 스트레스 지수를 확인 할 수 있습니다. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 사용된 기술 스택
+- 언어: dart
+- 통신: dio
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
